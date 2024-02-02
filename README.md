@@ -1,4 +1,4 @@
-# discription 
+# description 
 this code is used for a README generator used within the terminal 
 
 
